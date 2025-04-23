@@ -335,8 +335,9 @@ color: #ffcc00;
 
 .education-item h4 {
   font-size: 1.5rem;
-  font-weight: bold;
-  color: #f83794;}
+  font-weight: 1000;
+  color: brown;
+}
 
 .education-item p {
   font-size: 1.1rem;
@@ -541,8 +542,9 @@ color: #ffcc00;
 .service-card h1 {
   font-size: 20px;
   margin-bottom: 10px;
-  color: #f83794;
-    font-weight: 1700;
+  color: brown;
+    font-weight: 1000;
+    font-size: 1.3rem;
 }
 
 .service-card p {
@@ -603,11 +605,13 @@ color: #ffcc00;
 
 
 .project-card h3 {
-  font-size: 24px;
+  
   margin-bottom: 12px;
   position: relative;
   z-index: 1;
-  color: #f83794;
+  color: brown;
+  font-weight: 1000;
+  font-size: 1.3rem;
 }
 
 .project-card p {
@@ -1145,3 +1149,4 @@ margin-right: auto;
     justify-content: center;
   }
 }
+
