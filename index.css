@@ -198,18 +198,8 @@
   color: #fff;
 }
 
-/* WhatsApp */
-.home-sci a:nth-child(2) {
-  background: #25D366; /* Official WhatsApp Green */
-  color: #fff;
-}
 
-.home-sci a:nth-child(3) { 
-  background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5); 
-  color: #fff;
-}
-
-.home-sci a:nth-child(4) { background: #000000; color: #fff; } /* Music */
+.home-sci a:nth-child(2) { background: #000000; color: #fff; } /* Music */
 
 .home-sci a:hover {
   transform: translateY(-5px) scale(1.1);
@@ -741,18 +731,7 @@ color: #ffcc00;
   color: #fff;
 }
 
-/* WhatsApp */
-.social-link a:nth-child(2) {
-  background: #25D366; /* Official WhatsApp Green */
-  color: #fff;
-}
-
-.social-link a:nth-child(3) { 
-  background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5); 
-  color: #fff;
-}
-
-.social-link a:nth-child(4) { background: #000000; color: #fff; } /* Music */
+.social-link a:nth-child(2) { background: #000000; color: #fff; } /* Music */
 
 .social-link a:hover {
   transform: translateY(-5px) scale(1.1);
