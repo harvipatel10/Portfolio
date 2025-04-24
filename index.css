@@ -333,7 +333,7 @@ color: #ffcc00;
 }
 
 .education-item h4 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: #f64352;
 }
@@ -539,8 +539,8 @@ color: #ffcc00;
 }
 
 .service-card h1 {
-  font-size: 20px;
   margin-bottom: 10px;
+  font-size: 1.5rem;
   font-weight: 800;
   color: #f64352;
     font-size: 1.5rem;
@@ -608,10 +608,9 @@ color: #ffcc00;
   margin-bottom: 12px;
   position: relative;
   z-index: 1;
+  font-size: 1.5rem;
   font-weight: 800;
   color: #f64352;
-
-  font-size: 1.3rem;
 }
 
 .project-card p {
@@ -918,7 +917,7 @@ color: #ffcc00;
   }
 
   .education-item h4 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
 
   .education-item p {
@@ -962,6 +961,10 @@ color: #ffcc00;
     font-size: 14px;
   }
 
+  .service-card h1{
+    font-size: 1.6rem;
+  }
+
   .project-list {
     grid-template-columns: 1fr;
     padding: 0 5%;
@@ -977,7 +980,7 @@ color: #ffcc00;
   }
 
   .project-card h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 
   .project-card p {
@@ -1045,7 +1048,7 @@ color: #ffcc00;
   }
 
   .education-item h4 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .education-item p {
@@ -1092,12 +1095,20 @@ margin-right: auto;
     font-size: 13px;
   }
 
+  .service-card h1 {
+    font-size: 1.3rem;
+  }
+
   .project {
     padding: 40px 10px;
   }
 
   .project-text h2 {
     font-size: 1.8rem;
+  }
+
+  .project-card h3{
+    font-size: 1.3rem;
   }
 
   .btn-box {
