@@ -544,7 +544,7 @@ color: #ffcc00;
   margin-bottom: 10px;
   font-weight: 800;
   color: #f64352;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 .service-card p {
@@ -919,7 +919,7 @@ color: #ffcc00;
   }
 
   .education-item h4 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .education-item p {
@@ -978,7 +978,7 @@ color: #ffcc00;
   }
 
   .project-card h3 {
-    font-size: 20px;
+    font-size: 1.5rem;
   }
 
   .project-card p {
