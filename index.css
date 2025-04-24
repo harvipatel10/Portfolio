@@ -82,7 +82,7 @@
   position: absolute;
   inset: -2px;
   z-index: -1;
-  background: linear-gradient(120deg, #f1c40f, #00bcd4, #9b59b6, #f1c40f);
+background: linear-gradient(135deg, #2c3e50, #4ca1af);
   background-size: 300% 300%;
   animation: animatedBorder 5s linear infinite;
 }
@@ -335,8 +335,8 @@ color: #ffcc00;
 
 .education-item h4 {
   font-size: 1.5rem;
-  font-weight: 1000;
-  color: brown;
+  font-weight: 800;
+  color: #f64352;
 }
 
 .education-item p {
@@ -542,8 +542,8 @@ color: #ffcc00;
 .service-card h1 {
   font-size: 20px;
   margin-bottom: 10px;
-  color: brown;
-    font-weight: 1000;
+  font-weight: 800;
+  color: #f64352;
     font-size: 1.3rem;
 }
 
@@ -609,8 +609,9 @@ color: #ffcc00;
   margin-bottom: 12px;
   position: relative;
   z-index: 1;
-  color: brown;
-  font-weight: 1000;
+  font-weight: 800;
+  color: #f64352;
+
   font-size: 1.3rem;
 }
 
