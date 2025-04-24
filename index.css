@@ -224,6 +224,7 @@ background: linear-gradient(135deg, #2c3e50, #4ca1af);
   animation-delay: 1.5s;
   opacity: 0;
 
+
 }
 
 .btn-box:hover {
@@ -241,8 +242,6 @@ background: linear-gradient(135deg, #2c3e50, #4ca1af);
   text-align: center;
   padding: 60px 10%;
   color: #fff;
-  min-height: 100vh;
-  margin-top: -20px;
     animation: fadeUp 1s ease forwards;
   opacity: 0;
    animation-delay: 2s;
